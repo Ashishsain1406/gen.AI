@@ -3,7 +3,7 @@ Gemini Command-Line Chatbot
 
 🤖 Description
 
-This is a simple command-line chatbot built using Google's Gemini API. It simulates a conversation with an AI assistant, with support for:
+A simple and powerful *command-line chatbot* built using *Google's Gemini API*, allowing you to chat with an AI assistant via text or microphone input, with support for:
 
 Typing effects for AI responses
 
@@ -12,6 +12,17 @@ Colored terminal output (via colorama)
 Chat history management (/history, /clear)
 
 Logging full chat session to a .txt file
+
+---
+
+## ✨ Features
+
+- 🧠 AI responses using Gemini 1.5 Flash model
+- 🎨 Colored terminal output (via colorama)
+- 💬 Typing effect for Gemini replies
+- 🗂 Chat history commands (/history, /clear)
+- 🎤 Optional voice input using microphone
+- 💾 Logs full chat session to chat_log.txt
 
 
 
