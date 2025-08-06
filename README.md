@@ -93,6 +93,7 @@ You: Hello!
 Gemini: Hi there! How can I help you today?
 --------------------------------------------------
 
+<img width="1136" height="274" alt="Screenshot 2025-08-06 120154" src="https://github.com/user-attachments/assets/6279dff8-8ea7-426c-b70c-35e2e5b6104e" />
 
 ---
 
